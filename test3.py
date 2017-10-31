@@ -1,5 +1,6 @@
 #!C:\Program Files (x86)\Python36-32\python.exe
 
+import config
 # First comment
 
 print ("Hello, Python!") # second comment
